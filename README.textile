@@ -1,0 +1,2 @@
+Gets a list of Lithium Ion/Polymer batteries from hobbyking. Only pulls the product Id and the cell count.
+More advanced scrapers can then import these product ids and get detailed data. See "Hobbyking":http://scraperwiki.com/scrapers/hobbyking/ scraper.
