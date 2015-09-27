@@ -32,8 +32,6 @@ for($page = 1; $page <= $max_pages; $page++) {
 			'id'    => $id, 
 			'cells' => $cells
 		]);
-		
-		_log($id);
     }
 	
 	/* Check to see if we're on the last page */
